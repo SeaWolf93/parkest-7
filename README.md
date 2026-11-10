@@ -284,3 +284,4 @@ La PWA non rende offline le funzioni Realtime/GPS/mappe: Supabase e i servizi di
 - Il logo sostituisce la vecchia P generica anche nella barra superiore.
 - Aggiornate le icone PWA 192, 512, maskable e Apple Touch Icon.
 - Nessuna modifica richiesta a Supabase.
+PARKEST 7.0 - Test deployment Vercel
